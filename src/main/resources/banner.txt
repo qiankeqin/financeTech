@@ -1,0 +1,29 @@
+${AnsiColor.BRIGHT_GREEN}
+
+FinTech  bbbbbbbb
+FinTech  b::::::b            lllllll
+FinTech  b::::::b            l:::::l
+FinTech  b::::::b            l:::::l
+FinTech   b:::::b            l:::::l
+FinTech   b:::::bbbbbbbbb     l::::l    ooooooooooo      ggggggggg   ggggg
+FinTech   b::::::::::::::bb   l::::l  oo:::::::::::oo   g:::::::::ggg::::g
+FinTech   b::::::::::::::::b  l::::l o:::::::::::::::o g:::::::::::::::::g
+FinTech   b:::::bbbbb:::::::b l::::l o:::::ooooo:::::og::::::ggggg::::::gg
+FinTech   b:::::b    b::::::b l::::l o::::o     o::::og:::::g     g:::::g
+FinTech   b:::::b     b:::::b l::::l o::::o     o::::og:::::g     g:::::g
+FinTech   b:::::b     b:::::b l::::l o::::o     o::::og:::::g     g:::::g
+FinTech   b:::::b     b:::::b l::::l o::::o     o::::og::::::g    g:::::g
+FinTech   b:::::bbbbbb::::::bl::::::lo:::::ooooo:::::og:::::::ggggg:::::g
+FinTech   b::::::::::::::::b l::::::lo:::::::::::::::o g::::::::::::::::g
+FinTech   b:::::::::::::::b  l::::::l oo:::::::::::oo   gg::::::::::::::g
+FinTech   bbbbbbbbbbbbbbbb   llllllll   ooooooooooo       gggggggg::::::g
+                                                                  g:::::g
+                                                      gggggg      g:::::g
+                                                      g:::::gg   gg:::::g
+                                                       g::::::ggg:::::::g
+                                                        gg:::::::::::::g
+                                                          ggg::::::ggg
+                                                             gggggg
+${AnsiColor.BLACK}
+Application Version: ${application.version}${application.formatted-version}
+Spring Boot Version: ${spring-boot.version}${spring-boot.formatted-version}
