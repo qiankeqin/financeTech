@@ -341,6 +341,7 @@ public final class Commons {
         map.put("zhihu", WebConst.initConfig.get(prefix + "zhihu"));
         map.put("github", WebConst.initConfig.get(prefix + "github"));
         map.put("twitter", WebConst.initConfig.get(prefix + "twitter"));
+        map.put("twitter", WebConst.initConfig.get(prefix + "jianshu"));
         return map;
     }
 
